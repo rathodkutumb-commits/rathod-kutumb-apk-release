@@ -34,6 +34,9 @@ and installed apps update themselves from here.
 
 You only do this once. After that, new versions arrive inside the app.
 
+> **Had the app before 29 October 2026?** Copies shared on WhatsApp or installed from the Play Store before then
+> were signed differently and can't update to these releases. **Uninstall the old app first**, then install from the link above.
+
 > Share the download link above, not an APK file forwarded on WhatsApp.
 > The link always gives the newest version and the genuine file.
 
